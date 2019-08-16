@@ -1,1 +1,1 @@
-# two-population-Eyre-Walker-model
+# Two-population Eyre-Walker model
